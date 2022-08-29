@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Micham28 or Mike
+- 👀 I’m interested in Cyber security and web based develpoment with a personal hobby of systems administration, currently building my network.
+- 🌱 I have learned and am continuing to learn HTML, CSS, JavaScript, C#, Python, PowerShell. I am currently working on sharpening these skills but 
+- what I am looking into learning is more developement on my networking skills, setting up a home network (NAS, Plex, Firewall, Intrenet LAN, etc..)
+- I am trying to shapen my abilities in Systems Admin while not letting my developer skills fade.
+- 💞️ I’m looking to collaborate on Any project I would love the chance to grow more.
+- 📫 How to reach me, Email: micham28@uw.edu 
